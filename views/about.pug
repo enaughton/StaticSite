@@ -1,0 +1,54 @@
+extends layout.pug
+
+block content 
+  nav.grid-container.portfolio-breadcrumb
+    a(href='/') ← Back
+  article.grid-container.portfolio-intro.portfolio-project
+    .grid-x
+      .cell.small-6.medium-9.large-9
+
+       
+        h1= name
+
+        p.lead.text-light
+          | Full Stack JavaScript Developer.
+
+        
+        .portfolio-bio
+          p
+            | I am a Full Stack JavaScript Developer living in upstate New York.
+            | All of these projects were completed with in the last year, while working full time while raising my family. 
+            | I am looking for my first Developer Job, or freelance clients.
+
+      .cell.portfolio-meta.small-6.medium-2.large-3
+        h6 Skills
+
+        
+        ul
+          li HTML
+          li CSS
+          li JavaScript
+          li Pug
+          li Node
+          li NPM
+          li Express
+          li Heroku
+          li Pagination
+          li Blogging
+          
+  
+        h6 Contact Info
+
+        
+        ul
+          li (518) 212-7273
+          li enaughton5+dev@gmail.com
+
+      
+        a.button.expanded(href='https://www.linkedin.com/in/emmett-naughton/' target="_blank") LinkedIn
+        a.button.expanded(href='https://www.Github.com/enaughton' target="_blank") GitHub
+        a.button.expanded(href='https://www.Twitter.com/kingdogdad' target="_blank") Twitter
+        a.button.expanded(href='https://www.Medium.com/@enaughton' target="_blank") Medium
+  nav.grid-container.portfolio-breadcrumb
+    a(href='/') ← Back
+  

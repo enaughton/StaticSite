@@ -1,0 +1,129 @@
+{
+    "projects" : [
+        {
+            "id" : "0",
+            "project_name" : "Random Quote Generator",
+            "description" : "This project displays a random quote every time the button is clicked. ",
+            "technologies" : [
+                "HTML", 
+                "CSS", 
+                "Javascript"
+            ],
+            "live_link" : "https://enaughton.github.io/Random-Quote/",
+            "github_link" : "https://github.com/enaughton/Random-Quote",
+            "image_url" : [
+                "../static/Image/0/thumbnail.png",
+                "../static/Image/0/1.png", 
+                "../static/Image/0/2.png"
+                
+            ]
+        },
+        {
+            "id": "1",
+            "project_name": "Pagination and content filter",
+            "description": "Example of Pagination using JavaScript.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "Javascript"
+            ],
+            "live_link": "https://enaughton.github.io/Pagination/",
+            "github_link": "https://github.com/enaughton/Pagination",
+            "image_url": [
+                "../static/Image/1/thumbnail.png",
+                "../static/Image/1/1.png",
+                "../static/Image/1/2.png"
+            ]
+        },
+        {
+            "id": "2",
+            "project_name": "Interactive form",
+            "description": "A Form that has error handling using JavaScript",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "Javascript"
+            ],
+            "live_link": "https://enaughton.github.io/Form/",
+            "github_link": "https://github.com/enaughton/Form",
+            "image_url": [
+                "../static/Image/2/thumbnail.png",
+                "../static/Image/2/1.png",
+                "../static/Image/2/2.png"
+            ]
+        },
+        {
+            "id": "3",  
+            "project_name": "Phrase Hunter",
+            "description": "A Hangman Style Game",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "Javascript"
+            ],
+            "live_link": "https://enaughton.github.io/PhraseHunter/",
+            "github_link": "https://github.com/enaughton/PhraseHunter",
+            "image_url": [
+                "../static/Image/3/thumbnail.PNG",
+                "../static/Image/3/1.png",
+                "../static/Image/3/2.png"
+                
+            ]
+        },
+        {
+            "id": "4",
+            "project_name": "Employee Directory with public API",
+            "description":  "Using a Random Employee Generator API",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "Fetch API"
+            ],
+            "live_link": "https://enaughton.github.io/EmployeeDirectory/", 
+            "github_link": "https://github.com/tobiaszgala/Employee-Directory-with-Public-API",
+            "image_url": [
+                "../static/Image/4/thumbnail.png",
+                "../static/Image/4/1.png",
+                "../static/Image/4/2.png"
+                
+            ]
+        },
+        {
+            "id": "5",
+            "project_name": "Simple content scraper",
+            "description": "A Scraper in NodeJS that will print out the results in a .CSV file.",
+            "technologies": [
+                "Nodejs",
+                "NPM",
+                "Javascript"
+            ],
+            "github_link": "https://github.com/enaughton/contentScraper",
+            "image_url": [
+                "../static/Image/5/thumbnail.png",
+                "../static/Image/5/1.png",
+                "../static/Image/5/2.png"
+            ]
+        },
+
+        {
+            "id": "6",
+            "project_name": "Bagel Shop",
+            "description": "A quick resturant website for my friends Bagel shop.",
+            "technologies": [
+               "HTML",
+               "CSS-Grid",
+               "Javascript"
+            ],
+            "live_link": "https://enaughton.github.io/Willows",
+            "github_link": "https://github.com/enaughton/willows",
+            "image_url": [
+                "../static/Image/6/thumbnail.png",
+                "../static/Image/6/1.png",
+                "../static/Image/6/2.png"
+            ]
+        }
+
+
+    ]
+}
