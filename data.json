@@ -12,11 +12,10 @@
             "live_link" : "https://enaughton.github.io/Random-Quote/",
             "github_link" : "https://github.com/enaughton/Random-Quote",
             "image_url" : [
-                "../static/Image/0/thumbnail.png",
-                "../static/Image/0/1.png", 
-                "../static/Image/0/2.png"
-                
-            ]
+                "./static/Image/0/thumbnail.PNG",
+                "./static/Image/0/1.PNG", 
+                "./static/Image/0/2.PNG"
+                ]
         },
         {
             "id": "1",
@@ -30,15 +29,15 @@
             "live_link": "https://enaughton.github.io/Pagination/",
             "github_link": "https://github.com/enaughton/Pagination",
             "image_url": [
-                "../static/Image/1/thumbnail.png",
-                "../static/Image/1/1.png",
-                "../static/Image/1/2.png"
+                "./static/Image/1/thumbnail.PNG",
+                "./static/Image/1/1.PNG",
+                "./static/Image/1/2.PNG"
             ]
         },
         {
             "id": "2",
             "project_name": "Interactive form",
-            "description": "A Form that has error handling using JavaScript",
+            "description": "Using javascript to enhance the form by adding interactivity. Example of filtering options and providing helpful error messages when the user enters invalid information.",
             "technologies": [
                 "HTML",
                 "CSS",
@@ -47,15 +46,15 @@
             "live_link": "https://enaughton.github.io/Form/",
             "github_link": "https://github.com/enaughton/Form",
             "image_url": [
-                "../static/Image/2/thumbnail.png",
-                "../static/Image/2/1.png",
-                "../static/Image/2/2.png"
+                "./static/Image/2/thumbnail.PNG",
+                "./static/Image/2/1.PNG",
+                "./static/Image/2/2.PNG"
             ]
         },
         {
-            "id": "3",  
+            "id": "3",
             "project_name": "Phrase Hunter",
-            "description": "A Hangman Style Game",
+            "description": "Hangman Style Game",
             "technologies": [
                 "HTML",
                 "CSS",
@@ -64,16 +63,16 @@
             "live_link": "https://enaughton.github.io/PhraseHunter/",
             "github_link": "https://github.com/enaughton/PhraseHunter",
             "image_url": [
-                "../static/Image/3/thumbnail.PNG",
-                "../static/Image/3/1.png",
-                "../static/Image/3/2.png"
+                "./static/Image/3/thumbnail.PNG",
+                "./static/Image/3/1.PNG",
+                "./static/Image/3/2.PNG"
                 
             ]
         },
         {
             "id": "4",
-            "project_name": "Employee Directory with public API",
-            "description":  "Using a Random Employee Generator API",
+            "project_name": "Employee Directory with static API",
+            "description": "Using javascript and OOP as well as fetch API to create an Employee Directory. This project is using <a href=\"https://randomuser.me/\">Random User API</a>",
             "technologies": [
                 "HTML",
                 "CSS",
@@ -81,28 +80,28 @@
                 "Fetch API"
             ],
             "live_link": "https://enaughton.github.io/EmployeeDirectory/", 
-            "github_link": "https://github.com/tobiaszgala/Employee-Directory-with-Public-API",
+            "github_link": "https://github.com/enaughton/EmployeeDirectory",
             "image_url": [
-                "../static/Image/4/thumbnail.png",
-                "../static/Image/4/1.png",
-                "../static/Image/4/2.png"
+                "./static/Image/4/thumbnail.PNG",
+                "./static/Image/4/1.PNG",
+                "./static/Image/4/2.PNG"
                 
             ]
         },
         {
             "id": "5",
             "project_name": "Simple content scraper",
-            "description": "A Scraper in NodeJS that will print out the results in a .CSV file.",
+            "description": "",
             "technologies": [
                 "Nodejs",
                 "NPM",
                 "Javascript"
             ],
-            "github_link": "https://github.com/enaughton/contentScraper",
+            "github_link": "https://github.com/enaughton/ContentScraper",
             "image_url": [
-                "../static/Image/5/thumbnail.png",
-                "../static/Image/5/1.png",
-                "../static/Image/5/2.png"
+                "./static/Image/5/thumbnail.PNG",
+                "./static/Image/5/1.PNG",
+                "./static/Image/5/2.PNG"
             ]
         },
 
@@ -116,13 +115,29 @@
                "Javascript"
             ],
             "live_link": "https://enaughton.github.io/Willows",
-            "github_link": "https://github.com/enaughton/willows",
+            "github_link": "https://github.com/enaughton/Willows",
             "image_url": [
-                "../static/Image/6/thumbnail.png",
-                "../static/Image/6/1.png",
-                "../static/Image/6/2.png"
+                "./static/Image/6/thumbnail.PNG",
+                "./static/Image/6/1.PNG",
+                "./static/Image/6/2.PNG"
+            ]
+        },
+
+        {
+            "id": "7",
+            "project_name": "React Gallery ",
+            "description": "A Gallery using the Flickr API in React.JS",
+            "technologies": [
+               "React"
+            ],
+            "live_link": "https://affectionate-keller-c3ddda.netlify.com/",
+            "github_link": "https://github.com/enaughton/React-Gallery",
+            "image_url": [
+                "./static/Image/7/thumbnail.PNG"
+            
             ]
         }
+
 
 
     ]
